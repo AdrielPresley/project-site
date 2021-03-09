@@ -10,7 +10,7 @@ body {
 
 main {
     background-color: white;
-    width: 500px;
+    width: 600px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.418);
@@ -18,18 +18,19 @@ main {
 
 h1{
     font-size: 2em;
-    color: rgb(58, 0, 112);
+    color: black;
 }
 
 h2 {
     font-size: 1.5em;
-    color: rgb(58, 0, 112);
+    color: black;
+
 }
 
 a {
     text-decoration: none;
     font-weight: bold;
-    color: rgb(58, 0, 112);
+    color: black;
 }
 
 a:hover {
@@ -37,6 +38,6 @@ a:hover {
     color: rgb(26, 26, 255);
 }
 
-img {
-    width: 400px;
+iframe {
+    border-width: 1px;
 }
